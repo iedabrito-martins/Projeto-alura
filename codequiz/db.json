@@ -1,0 +1,18 @@
+{
+    "bg": "https://3.bp.blogspot.com/-NaUiAcCcBAU/WOK2QTw7qEI/AAAAAAAAuCY/rxXlOyGyKL8UhFFGTB89PZ-jeoBmIdXigCLcB/s1600/25027.jpg",
+    "title": " Titulo do quiz",
+    "description": " descricao do quiz",
+    "questions": [],
+    "external": [],
+    "theme": {
+        "colors": {
+            "primary": "#800000",
+            "secondary": "0,0,0",
+            "mainBg": "#1c1814",
+            "contrastText": "#ffffff",
+            "wrong": "#ff5722",
+            "success": "#4caf50"
+        },
+        "borderRadius": "4px"
+    }
+}
